@@ -1,0 +1,16 @@
+html{
+	font-size: 15px;
+}
+h1 {
+	font-size:5rem;
+}
+
+.rem1{
+	font-size: 1rem;
+}
+.rem2{
+	font-size: 2rem;
+}
+.rem3{
+	font-size: 3rem;
+}
