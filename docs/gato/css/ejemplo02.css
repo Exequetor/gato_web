@@ -1,0 +1,25 @@
+body{
+
+	background-color: rgb(209,204,201 );
+}
+
+.bienvenido{
+	background: url(../imgs/adanV.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: top;
+	background-attachment: fixed;
+	/*height: 100vh; /*100=100% del tamaño*/
+	height: 40rem; /*100=100% del tamaño*/
+}
+
+
+.fascinate{
+	font-family: 'Fascinate Inline', cursive;
+	text-shadow: 4px 4px 4px #aaa;
+
+}
+
+.bg-dark {
+  background-color: rgba(50,50,60, 0.75) !important;
+}
